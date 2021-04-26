@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7C4DFF</color>
+    <color name="colorPrimaryDark">#651FFF</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="lightGrey">#C5CAE9</color>
+    <color name="ExpressifyColor">#7C4DFF</color>
+    <color name="red">#9F0B0B</color>
+    <color name="status_background">#536DFE</color>
+    <color name="chat_background">#3D5AFE</color>
+    <color name="fb_color">#3c5793</color>
+    <color name="lightblue">#90CAF9</color>
+    <color name="settingsIconColor">#283593</color>
+    <color name="grayBackground">#BCBCBC</color>
+    <color name="chatbackground">#AAAAAA</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

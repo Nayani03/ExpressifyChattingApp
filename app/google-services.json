@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146434897656",
+    "project_id": "expressiffyapp",
+    "storage_bucket": "expressiffyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146434897656:android:0cfc03e146c983b105ed0d",
+        "android_client_info": {
+          "package_name": "chatting.app.expressifyproject1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146434897656-tfovo0ru0guhsqudjdr2nb8i2tu3egh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvnK6k6nEqiISz08W6-3n1eZd1ZpMQbmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146434897656-tfovo0ru0guhsqudjdr2nb8i2tu3egh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

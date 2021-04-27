@@ -2,7 +2,7 @@ package chatting.app.expressifyproject1.Models;
 
 public class Users {
     //to take profile picture of user
-    String profilepic,userName , mail,password ,userId ,lastMessage;
+    String profilepic,userName , mail,password ,userId ,lastMessage,status;
 
     public Users(String profilepic, String userName, String mail, String password, String userId, String lastMessage) {
         this.profilepic = profilepic;
@@ -29,6 +29,15 @@ public class Users {
         this.mail = mail;
         this.password = password;
     }
+
+    public String getStatus() {
+        return status;
+    }
+
+    public void setStatus(String status) {
+        this.status = status;
+    }
+
     public String getProfilepic() {
         return profilepic;
     }
